@@ -1,3 +1,3 @@
 # lorem-ipsum-generator
 Demo 
-lorem-ipsum-generator-ervinjc.netlify.app
+https://lorem-ipsum-generator-ervinjc.netlify.app/
